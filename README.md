@@ -31,5 +31,7 @@ Gemma님과 함께하는 4월 스터디
 
 4/28: (젬마) week4 피드백
 
-[In](https://www.inflearn.com/users/867682/@gemmadata)
+[젬마님의 프로필](https://www.inflearn.com/users/867682/@gemmadata)
+
+[스터디 문제 출처(stratascratch)](https://www.stratascratch.com/)
 
