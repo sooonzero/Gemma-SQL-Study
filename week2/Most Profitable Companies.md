@@ -7,7 +7,7 @@ Sort the result based on profits in descending order.
 
 ## forbes_global_2010_2014
 
-### forbes_global_2010_2014
+### Table: forbes_global_2010_2014
 company:varchar
 
 sector:varchar
