@@ -1,7 +1,7 @@
 ## 새로 알게 된 것
 
 ## 범용적인 데이터 처리
-### Find the percentage of shipable orders
+### [Find the percentage of shipable orders](https://platform.stratascratch.com/coding/10090-find-the-percentage-of-shipable-orders?code_type=3)
 `배송 가능한 주문의 비율을 확인하세요. 고객의 주소가 알려진 경우 주문이 배송 가능하다고 간주하세요.`
 
 위 문제를 풀기위해 orders와 customers 테이블 값을 먼저 확인해보았다.
