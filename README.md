@@ -3,6 +3,8 @@
 
 # 인프런 Gemma 강사님과 함께하는 4월 1:1 스터디
 ![image](https://github.com/sooonzero/Gemma-SQL-Study/assets/82437385/f99ca4e9-ec9f-40fc-a58e-a7f534ac4748)
+![image](https://github.com/sooonzero/Gemma-SQL-Study/assets/82437385/46eb6eee-e60e-4aba-961c-46599b13f423)
+
 
 
 ## [기한] 
