@@ -1,8 +1,23 @@
-# Gemma-SQL-Study
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Gemma%20Study&fontSize=60)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-Gemma님과 함께하는 4월 스터디
+# 인프런 Gemma 강사님과 함께하는 4월 1:1 스터디
+![image](https://github.com/sooonzero/Gemma-SQL-Study/assets/82437385/f99ca4e9-ec9f-40fc-a58e-a7f534ac4748)
 
-### [일정]
+
+## [기한] 
+2024/4/1(월)~4/27(토) (4회)
+
+## [진행 방식]
+
+- 강사님이 일요일에 문제 3개를 오픈카톡방으로 공유합니다.
+
+- 저는 월요일~토요일 중 원하는 날에 방해받지 않은 시간을 확보하여서, 1시간 동안 문제를 풉니다.
+
+- 강사님이 돌아오는 일요일에 코드 피드백과 다음 문제 3개를 공유합니다.
+
+
+## [일정]
 
 
 3/31: (젬마) week1 문제 배포
@@ -31,7 +46,11 @@ Gemma님과 함께하는 4월 스터디
 
 4/28: (젬마) week4 피드백
 
-[젬마님의 프로필](https://www.inflearn.com/users/867682/@gemmadata)
+
+
+[강사님 프로필](https://www.inflearn.com/users/867682/@gemmadata)
+
+[스터디 내용](https://www.inflearn.com/news/1216479)
 
 [스터디 문제 출처(stratascratch)](https://www.stratascratch.com/)
 
