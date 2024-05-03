@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=Gemma%20Study&fontSize=60)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
-# 인프런 Gemma 강사님과 함께하는 4월 1:1 스터디
+# 인프런 Gemma 강사님과 함께하는 4,5월 1:1 스터디
 ![image](https://github.com/sooonzero/Gemma-SQL-Study/assets/82437385/f99ca4e9-ec9f-40fc-a58e-a7f534ac4748)
 ![image](https://github.com/sooonzero/Gemma-SQL-Study/assets/82437385/46eb6eee-e60e-4aba-961c-46599b13f423)
 
 
 
 ## [기한] 
-2024/4/1(월)~4/27(토) (4회)
+2024/4/1(월)~6/1(토) (8회)
 
 ## [진행 방식]
 
@@ -48,11 +48,29 @@
 
 4/28: (젬마) week4 피드백
 
+5/5: (젬마) week1 문제 배포
+
+5/6~5/11: (참가자) week1 문제 풀이
+
+5/12: (젬마) week1 피드백 및 week2 문제 배포
+
+5/13~5/18: (참가자) week2 문제 풀이
+
+5/19: (젬마) week2 피드백 및 week3 문제 배포
+
+5/20~5/25: (참가자) week3 문제 풀이
+
+5/26: (젬마) week3 피드백 및 week4 문제 배포
+
+5/27~6/1: (참가자) week4 문제 풀이
+
+6/2: (젬마) week4 피드백
 
 
 [강사님 프로필](https://www.inflearn.com/users/867682/@gemmadata)
 
-[스터디 내용](https://www.inflearn.com/news/1216479)
+[스터디 내용 4월](https://www.inflearn.com/news/1216479)
+[스터디 내용 5월](https://www.inflearn.com/news/1251662)
 
 [스터디 문제 출처(stratascratch)](https://www.stratascratch.com/)
 
