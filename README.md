@@ -8,7 +8,7 @@
 
 
 ## [기한] 
-2024/4/1(월)~6/1(토) (8회)
+2024/3/31()~6/1(토) (8회)
 
 ## [진행 방식]
 
@@ -19,52 +19,81 @@
 - 강사님이 돌아오는 일요일에 코드 피드백과 다음 문제 3개를 공유합니다.
 
 
-## [일정]
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
 
+<h2>[4월 스터디 일정]</h2>
+<table>
+  <tr>
+    <th>월</th>
+    <th>화</th>
+    <th>수</th>
+    <th>목</th>
+    <th>금</th>
+    <th>토</th>
+    <th>일</th>
+  </tr>
+    <tr>
+    <td class="event" colspan="6"></td>
+    <td>3월 31일 일<br>(젬마) 4월 week1 문제 배포</td>
+  </tr>
+  <tr>
+    <td class="event" colspan="6">1일 ~ 6일<br>(참가자) week1 문제 풀이</td>
+    <td>7일<br>(젬마) week1 피드백 및 week2 문제 배포</td>
+  </tr>
+  <tr>
+    <td class="event" colspan="6">8일 ~ 13일<br>(참가자) week2 문제 풀이</td>
+    <td>14일<br>(젬마) week2 피드백 및 week3 문제 배포</td>
+  </tr>
+  <tr>
+    <td class="event" colspan="6">15일 ~ 20일<br>(참가자) week3 문제 풀이</td>
+    <td>21일<br>(젬마) week3 피드백 및 week4 문제 배포</td>
+  </tr>
+  <tr>
+    <td class="event" colspan="6">22일 ~ 27일 <br>(참가자) week4 문제 풀이</td>
+    <td>28일<br>(젬마) week4 피드백</td>
+  </tr>
+</table>
 
-3/31: (젬마) week1 문제 배포
+<h2>[5월 스터디 일정]</h2>
+<table>
+  <tr>
+    <th>월</th>
+    <th>화</th>
+    <th>수</th>
+    <th>목</th>
+    <th>금</th>
+    <th>토</th>
+    <th>일</th>
+  </tr>
+    <tr>
+    <td class="event" colspan="6"></td>
+    <td> 5일 <br>(젬마) 5월 week1 문제 배포</td>
+  </tr>
+  <tr>
+    <td class="event" colspan="6">6일 ~ 11일<br>(참가자) week1 문제 풀이</td>
+    <td>12일<br>(젬마) week1 피드백 및 week2 문제 배포</td>
+  </tr>
+  <tr>
+    <td class="event" colspan="6">13일 ~ 18일<br>(참가자) week2 문제 풀이</td>
+    <td>19일<br>(젬마) week2 피드백 및 week3 문제 배포</td>
+  </tr>
+  <tr>
+    <td class="event" colspan="6">20일 ~ 25일<br>(참가자) week3 문제 풀이</td>
+    <td>26일<br>(젬마) week3 피드백 및 week4 문제 배포</td>
+  </tr>
+  <tr>
+    <td class="event" colspan="6">27일 ~ 6월1일 <br>(참가자) week4 문제 풀이</td>
+    <td>6월 2일<br>(젬마) week4 피드백</td>
+  </tr>
+</table>
 
-
-4/1~4/6: (참가자) week1 문제 풀이
-
-
-4/7: (젬마) week1 피드백 및 week2 문제 배포
-
-
-4/8~4/13: (참가자) week2 문제 풀이
-
-
-4/14: (젬마) week2 피드백 및 week3 문제 배포
-
-
-4/15~4/20: (참가자) week3 문제 풀이
-
-
-4/21: (젬마) week3 피드백 및 week4 문제 배포
-
-
-4/22~4/27: (참가자) week4 문제 풀이
-
-
-4/28: (젬마) week4 피드백
-
-5/5: (젬마) week1 문제 배포
-
-5/6~5/11: (참가자) week1 문제 풀이
-
-5/12: (젬마) week1 피드백 및 week2 문제 배포
-
-5/13~5/18: (참가자) week2 문제 풀이
-
-5/19: (젬마) week2 피드백 및 week3 문제 배포
-
-5/20~5/25: (참가자) week3 문제 풀이
-
-5/26: (젬마) week3 피드백 및 week4 문제 배포
-
-5/27~6/1: (참가자) week4 문제 풀이
-
-6/2: (젬마) week4 피드백
+</body>
+</html>
 
 
 [강사님 프로필](https://www.inflearn.com/users/867682/@gemmadata)
