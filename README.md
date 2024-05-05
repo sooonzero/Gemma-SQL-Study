@@ -40,23 +40,23 @@
   </tr>
     <tr>
     <td class="event" colspan="6"></td>
-    <td>3월 31일 일<br>(젬마) 4월 week1 문제 배포</td>
+    <td>3월 31일 [젬마] <br> week1 문제 배포</td>
   </tr>
   <tr>
-    <td class="event" colspan="6">1일 ~ 6일<br>(참가자) week1 문제 풀이</td>
-    <td>7일<br>(젬마) week1 피드백 및 week2 문제 배포</td>
+    <td class="event" colspan="6">1일 ~ 6일 [참가자]<br> week1 문제 풀이</td>
+    <td>7일 [젬마] <br> week1 피드백 <br> week2 문제 배포</td>
   </tr>
   <tr>
-    <td class="event" colspan="6">8일 ~ 13일<br>(참가자) week2 문제 풀이</td>
-    <td>14일<br>(젬마) week2 피드백 및 week3 문제 배포</td>
+    <td class="event" colspan="6">8일 ~ 13일 [참가자]<br> week2 문제 풀이</td>
+    <td>14일 [젬마] <br> week2 피드백 <br> week3 문제 배포</td>
   </tr>
   <tr>
-    <td class="event" colspan="6">15일 ~ 20일<br>(참가자) week3 문제 풀이</td>
-    <td>21일<br>(젬마) week3 피드백 및 week4 문제 배포</td>
+    <td class="event" colspan="6">15일 ~ 20일 [참가자]<br> week3 문제 풀이</td>
+    <td>21일 [젬마] <br> week3 피드백 <br> week4 문제 배포</td>
   </tr>
   <tr>
-    <td class="event" colspan="6">22일 ~ 27일 <br>(참가자) week4 문제 풀이</td>
-    <td>28일<br>(젬마) week4 피드백</td>
+    <td class="event" colspan="6">22일 ~ 27일 [참가자]<br> week4 문제 풀이</td>
+    <td>28일 [젬마] <br> week4 피드백</td>
   </tr>
 </table>
 
@@ -73,23 +73,23 @@
   </tr>
     <tr>
     <td class="event" colspan="6"></td>
-    <td> 5일 <br>(젬마) 5월 week1 문제 배포</td>
+    <td> 5일 [젬마] <br> week1 문제 배포</td>
   </tr>
   <tr>
-    <td class="event" colspan="6">6일 ~ 11일<br>(참가자) week1 문제 풀이</td>
-    <td>12일<br>(젬마) week1 피드백 및 week2 문제 배포</td>
+    <td class="event" colspan="6">6일 ~ 11일 [참가자]<br> week1 문제 풀이</td>
+    <td>12일 [젬마] <br> week1 피드백 <br> week2 문제 배포</td>
   </tr>
   <tr>
-    <td class="event" colspan="6">13일 ~ 18일<br>(참가자) week2 문제 풀이</td>
-    <td>19일<br>(젬마) week2 피드백 및 week3 문제 배포</td>
+    <td class="event" colspan="6">13일 ~ 18일 [참가자]<br> week2 문제 풀이</td>
+    <td>19일 [젬마] <br> week2 피드백 <br> week3 문제 배포</td>
   </tr>
   <tr>
-    <td class="event" colspan="6">20일 ~ 25일<br>(참가자) week3 문제 풀이</td>
-    <td>26일<br>(젬마) week3 피드백 및 week4 문제 배포</td>
+    <td class="event" colspan="6">20일 ~ 25일 [참가자]<br> week3 문제 풀이</td>
+    <td>26일 [젬마] <br> week3 피드백 <br> week4 문제 배포</td>
   </tr>
   <tr>
-    <td class="event" colspan="6">27일 ~ 6월1일 <br>(참가자) week4 문제 풀이</td>
-    <td>6월 2일<br>(젬마) week4 피드백</td>
+    <td class="event" colspan="6">27일 ~ 6월1일 [참가자]<br> week4 문제 풀이</td>
+    <td>6월 2일 [젬마] <br> week4 피드백</td>
   </tr>
 </table>
 
