@@ -1,4 +1,4 @@
-## 새로 알게 된 것
+# 새로 알게 된 것
 
 ## 범용적인 데이터 처리
 ### [Find the percentage of shipable orders](https://platform.stratascratch.com/coding/10090-find-the-percentage-of-shipable-orders?code_type=3)
