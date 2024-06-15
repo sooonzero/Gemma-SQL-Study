@@ -76,7 +76,7 @@ from (
 where a.rk<=5;
 ```
 
-[Gemma님 풀이]
+### [Gemma님 풀이]
 ```sql
 select name,
 review_count
@@ -86,7 +86,7 @@ limit 5;
 ```
 
 
-[피드백]
+### [피드백]
 1. order by와 limit 조합으로 풀면 쉽게 문제를 풀 수 있습니다.
 
 2. 참고로 rank로 모든 최대값/최소값 문제를 풀수 있습니다.
@@ -115,7 +115,7 @@ where a.rk<=5;
 ```
 
 ## #3 Flags per Video
-[제 풀이]
+### [sooonzero 풀이]
 ```sql
 select a.video_id,
 count(distinct(a.name))
@@ -129,7 +129,7 @@ group by a.video_id
 order by 1;
 ```
 
-[Gemma님 풀이]
+### [Gemma님 풀이]
 ```sql
 select video_id,
 count(distinct concat(ifnull(user_firstname,''), ' ', ifnull(user_lastname,''))) as num_unique_users
@@ -139,5 +139,5 @@ group by video_id;
 ```
 
 
-[피드백]
+### [피드백]
 로직은 저와 동일합니다. 하지만 굳이 sub query를 써줄 필요가 없습니다.
