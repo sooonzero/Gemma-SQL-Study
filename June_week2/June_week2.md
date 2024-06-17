@@ -1,5 +1,5 @@
 # [week2 피드백]
-## #1
+## #1 Highest Salary In Department
 ### [sooonzero 풀이]
 ```sql
 select department,
@@ -42,7 +42,7 @@ Sales의 max salary가 2200인데, 우연히 Management의 직원의 salary가 2
 2. 저는 rank로 문제를 풀었습니다. 풀이 참고 부탁드립니다.
 
 
-### #2
+### #2 Customer Revenue In March
 ### [sooonzero 풀이]
 ```sql
 select cust_id,
@@ -65,7 +65,7 @@ group by cust_id;
 로직은 재영님과 동일하나, 저는 date_format으로 날짜 추출을 하였습니다. 참고 바랍니다.
 
 
-## #3
+## #3 Users By Average Session Time
 ### [sooonzero 풀이]
 ```sql
 select a.user_id,
