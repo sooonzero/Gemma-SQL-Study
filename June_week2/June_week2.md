@@ -35,7 +35,7 @@ where rn=1;
 안그러면 department와 연결하지 못한 채로, 그저 각 department의 max salary가 여러 개 나옵니다. (사진 참고)
 (그런데 어차피 group by department를 쓰고 select문 안에 department를 추가하면, in 연산자로 문제풀이가 불가능합니다)
 
-![image](https://github.com/sooonzero/Gemma-SQL-Study/assets/82437385/d6ca824c-ca81-477c-9a48-e2f485204e79)
+<img src="https://github.com/sooonzero/Gemma-SQL-Study/assets/82437385/d6ca824c-ca81-477c-9a48-e2f485204e79"  width="200"/>
 
 재영님의 풀이대로라면,
 Sales의 max salary가 2200인데, 우연히 Management의 직원의 salary가 2200이면 해당 직원이 답으로 출력될 것입니다.
